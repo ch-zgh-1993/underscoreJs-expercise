@@ -6,3 +6,5 @@ this will help you to see the Overall appearance of Library, Why can he appear a
 I hope that through this exercise, I will have a better understanding of the realization of JS library. On the other hand, I also like to see these classic libraries, because we all want to achieve a higher level. Come on.
 
 
+## 我学到的内容
+全部放在了IKnow.js.
